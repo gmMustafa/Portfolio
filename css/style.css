@@ -296,7 +296,7 @@ nav ul li a {
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid #b8a07e;
+  border: 20px solid #000000;
 }
 
 #about .div-img-bg .about-img img {
@@ -352,7 +352,7 @@ nav ul li a {
 
 .services-block i {
   font-size: 44px;
-  color: #b8a07e;
+  color: #000000;
   line-height: 44px;
 }
 
@@ -379,7 +379,7 @@ nav ul li a {
 }
 
 .services-carousel .owl-dot.active {
-  background-color: #b8a07e;
+  background-color: #000000;
 }
 
 .owl-nav {
